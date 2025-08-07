@@ -1,5 +1,8 @@
 # Voice-Recognition-by-Rasberry-pi-4
 
+A simple speech recognition project implemented on Raspberry Pi using Python. This project demonstrates converting text to speech using gTTS, then recognizing the generated speech using the SpeechRecognition library.
+
+
 **🔧 Tools & Technologies Used:**
 
 1:Raspberry Pi OS (32-bit)
